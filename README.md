@@ -12,6 +12,6 @@ MyWork
 
 <img src="https://wallpaperaccess.com/full/7895335.jpg"/>
 
-Contact us:[Contact Us :](Contact_us.md)                                                [About Me :](About_us.md)
+Contact us:[Contact Us :](Contact_us.md)                                                About Me:[About Me :](About_us.md)
 
 
