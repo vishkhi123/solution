@@ -9,12 +9,10 @@ MyWork
 - Bash
 - Python
 - C#
+- [Contact US :](Contact_us.md)
+- [About Us :](About_us.md)
 
 <img src="https://wallpaperaccess.com/full/7895335.jpg"/>
-## More info
-- One
-- Two
-- Three
 
                                                 
 
