@@ -3,7 +3,7 @@ const app=express();
 
 
 const bodyParser=require('body-parser');
-app.use(bodyParser());
+app.use(p.ubodyParser());
 
 app.get('/',(req,res)=>{
 
